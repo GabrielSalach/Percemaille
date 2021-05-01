@@ -1,6 +1,6 @@
 # Percemaille
 
-Small header-only C module allowing to read and write to .ini files on windows.
+Small header-only C module allowing to read .ini files on windows.
 
 **WARNING : This won't work with UNIX-style line endings !**
 
